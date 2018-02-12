@@ -14,5 +14,8 @@
     "testResultProcessor"
   ],
   "author": "Antony Jones",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
 }
