@@ -1,6 +1,6 @@
 {
   "name": "jest-multi-test-result-processor",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Allow multiple test result processors for jest testResultProcessor",
   "main": "index.js",
   "scripts": {
